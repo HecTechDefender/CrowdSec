@@ -17,26 +17,27 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 
 <h2>Program walk-through:</h2>
 
-  <br/>
+<br/>
+<br />
+<br />
+ Go to the crowdsec site. Select "create free account". Create a free account and log in to CrowdSec. 
+ For Windows installation, go to the GitHub page. Download the .msi file on the Windows computer. (server and workstation) Launch it.            <br/>
+<img src="https://i.imgur.com/AthkOW8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
              <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xuOppSr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-             <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <br/>
+<img src="https://i.imgur.com/lTh56DN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-           <br/>
+        HERE    <br/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
