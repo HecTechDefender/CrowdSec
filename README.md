@@ -127,8 +127,8 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <br />
 
 <br />
-           Add a new Active Directory Forest               <br/>
-<img src="https://i.imgur.com/oHYlLbE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                        <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
@@ -138,8 +138,8 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <br />
 
 <br />
-         Leave the default configurations and set a password.                  <br/>
-<img src="https://i.imgur.com/ITxolF1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                         <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
@@ -149,8 +149,8 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <br />
 
 <br />
-       Leave the DNS part default. Check the NetBIOS domain name. Leave the default path. Launch the install. Reboot when asked.                     <br/>
-<img src="https://i.imgur.com/yCG1Bm4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                          <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
@@ -160,9 +160,8 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <br />
 
 <br />
-     Now you have the Active Directory Server, you need to populate it with misconfigurations to perform analysis. We will use BadBlood for this task, Download it on AD, Extract it, Launch Powershell as admin, go to Badblood folder, Launch Invoke-BadBlood.ps1 and let the magic happen (this will take several minutes)
- <br />
- <img src="https://i.imgur.com/ckj2T3q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                           <br />
+ <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
@@ -172,8 +171,8 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <br />
 
 <br />
-        Now, you have the Active Directory configuration (2500 users, 500 groups, OU, 100 computers, etc.), have fun! <br/>
-<img src="https://i.imgur.com/qHvBc1A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+                            <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  <br /> 
  
                  
