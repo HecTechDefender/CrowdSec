@@ -42,8 +42,8 @@ Command: .\cscli collections install crowdsecurity/windows-firewall <br/>
 <img src="https://i.imgur.com/vqZA1h7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-           <br />
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Open the acquis.yaml file in "C:\ProgramData\CrowdSec\config". Add this to it.          <br />
+<img src="https://i.imgur.com/mXFEjpJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br />
   <br/> 
