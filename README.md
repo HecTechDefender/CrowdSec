@@ -33,12 +33,13 @@ In this project, I'm on a mission to build a SOC home lab! This project will cov
 <img src="https://i.imgur.com/lTh56DN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+             <br/>
+<img src="https://i.imgur.com/ylSK2bh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />          
 <br />
-<br />
-        HERE    <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Contrary to Linux, CrowdSec does not support the automatic configuration at installation time. If you want to be able to detect something other than RDP or SMB brute force, then you will need to customize your acquisition configuration. Launch Powershell as an administrator in CrowdSec's folder. 
+Command: .\cscli collections install crowdsecurity/windows-firewall <br/>
+<img src="https://i.imgur.com/vqZA1h7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
            <br />
